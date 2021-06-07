@@ -1,0 +1,15 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+canvas{
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 10px;
+}
+.heading{
+    width: 100%;
+    color:darkblue;
+}
+button{
+    width: 50%;
+}
